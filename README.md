@@ -1,4 +1,4 @@
 # NLP_Project
-Nitin John Titus
-Mohamed Jadeer PK
+Nitin John Titus <br />
+Mohamed Jadeer PK <br />
 Vishnu R
