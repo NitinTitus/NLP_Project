@@ -1,5 +1,5 @@
 # Step 7
-The file <b>bigram_train&test.py</b> contains the code for training the model and doing 10 fold cross validation testing.
+The file <b>bigram_train&test.py</b> contains the code for training the model and doing 10 fold cross validation testing.<br />
 The file <b>data_without_stopwords.txt</b> contains the data set with the stop words removed.
 <h3>Accuracy statistics</h3>
 Run 1 :88.8888888889<br />
